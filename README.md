@@ -1,5 +1,6 @@
 # ISRC PY4EO Course
  This is an advanced course of Python applications in remote sensing.
+ You can find the syllabus [here](https://earthobserv.com/fa/archives/307).
 
 ## Useful links
 1. [Matplotlib](https://github.com/rougier/matplotlib-tutorial) tutorial.
